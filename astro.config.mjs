@@ -7,6 +7,7 @@ import edgeoneAdapter from '@edgeone/astro';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://portfolio-sofidev-garrux.edgeone.app/',
   devToolbar: {
     enabled: false
   },
